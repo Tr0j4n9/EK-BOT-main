@@ -5,7 +5,7 @@ const request = Promise.promisify(require('request'));
 
 
 function version() {
-  return request('https://raw.githubusercontent.com/Gravebot/Gravebot/master/CHANGELOG.md')
+  return request('https://raw.githubusercontent.com/Tr0j4n9/EK-BOT-main/master/CHANGELOG.md')
     .then(R.prop('body'))
     .then(R.split(/<a name="*.*.*" \/>/g))
     .then(R.nth(1))
