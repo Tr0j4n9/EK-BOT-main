@@ -6,7 +6,7 @@
 [![Discord](https://discordapp.com/api/guilds/128598463947472897/widget.png)](https://discord.gg/xnkN3M)
 ## About
 
-A fantastic, helpful, and fun [Discord](https://discordapp.com) chat and music bot! Gravebot comes with a bunch of cool and powerful commands for both Discord and games!
+A fantastic, helpful, and fun [Discord](https://discordapp.com) chat and music bot! Ek Bot comes with a bunch of cool and powerful commands for both Discord and games!
 
 ## [Changelog](CHANGELOG.md)
 
@@ -16,9 +16,8 @@ The easiest way to set this bot up on your server is to invite it to your Discor
 
 In order to do that, just [click here](https://discordapp.com/oauth2/authorize?&client_id=413185996654510080&scope=bot&permissions=305261590) and choose a server. You need to have **Manage Server** permission on that server. You may remove some of the permissions if you wish, but be warned it may break current and upcoming features.
 
-If you want to give the bot a first try, you may do that in the [Gravebot's Lair](https://discord.gg/0iXEgtjdHgkpdsVr) Discord server.
 
-If you have any questions, feedback, or want to request features, you may also do that by leaving a message in [Gravebot's Lair](https://discord.gg/0iXEgtjdHgkpdsVr), using the `!feedback` command, private messaging Gravestorm or Zalik, as well as opening an [issue on Github](https://github.com/Gravebot/Gravebot/issues/new).
+If you have any questions, feedback, or want to request features, you may also do that by leaving a message in [EK-BOT](Link coming), using the `!feedback` command, private messaging Gravestorm or Zalik, as well as opening an [issue on Github](https://github.com/Tr0j4n9/EK-BOT-main/issues/new).
 
 For self hosting, click [here](#localconfig).
 
