@@ -27,6 +27,7 @@
   "comics_smbc": "Returns a Saturday Morning Breakfast Cereal comic",
   "comics_to": "Returns a The Oatmeal comic",
   "comics_xkcd": "Returns a xkcd comic",
+  "contact-11": "PM Tr0j4n9#9724 for suggestions, feature requests and support.",
   "ddg": "Search the web, can also calculate and convert. Search other websites by appending its shortening (e.g. `$ddg $yt Hello`) See <https://duckduckgo.com/bang> for a list",
   "ddg_error": "I couldn't find anything for",
   "ddg_usage": "Usage: **`$ddg`** `search terms`",
