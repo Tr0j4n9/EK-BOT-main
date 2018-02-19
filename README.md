@@ -2,7 +2,6 @@
 
 [![Build Status](https://david-dm.org/gravebot/gravebot.svg)](https://david-dm.org/Tr0j4n9/EK-BOT-main)
 [![Build Status](https://travis-ci.org/Tr0j4n9/EK-BOT-main.svg?branch=master)](https://travis-ci.org/Tr0j4n9/EK-BOT-main)
-[![Coverage Status](https://img.shields.io/coveralls/Gravebot/Gravebot/master.svg)](https://coveralls.io/github/Gravebot/Gravebot?branch=master)
 <a href="https://zenhub.io"><img src="https://img.shields.io/badge/KanBan%20Board-Zenhub.io-blue.svg"></a>
 [![Translations](https://img.shields.io/badge/Translations-Transifex-135d91.svg)](https://www.transifex.com/gravebot/gravebot/)
 [![Discord](https://discordapp.com/api/guilds/128598463947472897/widget.png)](https://discord.gg/0iXEgtjdHgkpdsVr)
