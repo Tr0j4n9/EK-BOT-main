@@ -10,7 +10,7 @@ const res_fixture = fs.readFileSync(path.join(__dirname, '../fixtures/version.md
 describe('version', () => {
   it('should return the change log for the latest verion', () => {
     nock('https://raw.githubusercontent.com/')
-      .get('/Gravebot/Gravebot/master/CHANGELOG.md')
+      .get('/Tr0j4n9/EK-BOT-main/master/CHANGELOG.md')
       .reply(200, res_fixture);
 
     return version.version()
