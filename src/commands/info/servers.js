@@ -18,7 +18,7 @@ function servers(client, evt, suffix, lang, json) {
   }
 
   if (json) return Promise.resolve(server_count);
-  return Promise.resolve(`Connected to ${server_count.guilds} servers, ${server_count.channels} channels and ${server_count.users} users.`);
+  return Promise.resolve(`Connected to ${server_count.guilds} servers, ${server_count.channels} channels and ${server_count.users} users. :yum:`);
 }
 
 export default {
